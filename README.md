@@ -1,5 +1,5 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1694044800&v=beta&t=zr4ocpFETLMm0fzf01dNZDsQgzzfajZuJSEtGUgWh70)
-<h1 align="center">Hi 👋, I'm Emirhan Şimşek</h1>
+
+<h1 align="center">Hi, I'm Emirhan Şimşek</h1>
 <h3 align="center">A passionate developer student from Turkey</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansesimsek" alt="emirhansesimsek" /></a> </p>
