@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **emirhansesimsek@gmail.com**
 
