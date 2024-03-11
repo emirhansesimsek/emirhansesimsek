@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansesimsek" alt="emirhansesimsek" /></a> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently studying on **Python**
 
 - 🌱 I’m currently learning **React Native**
 
