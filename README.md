@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emirhansesimsek" alt="emirhansesimsek" /></a> </p>
 
-- 🔭 I’m currently studying on **Python**
+- 🔭 I’m currently studying on **CNN Models**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **signature verification**
 
 - 📫 How to reach me **emirhansesimsek@gmail.com**
 
