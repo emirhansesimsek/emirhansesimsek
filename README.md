@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently studying on **CNN Models**
 
-- 🌱 I’m currently learning **Signature verification**
+- 🌱 I’m currently learning **Signature Verification**
 
 - 📫 How to reach me **emirhansesimsek@gmail.com**
 
